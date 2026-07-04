@@ -2,7 +2,7 @@
 
 A hands-free month-view calendar for [Even Realities G2](https://www.evenrealities.com/) smart glasses, designed to be operated entirely from the R1 ring. Always opens at the current month — no setup required.
 
-> **Status:** v0.2.0 — preparing for Even Hub submission.
+> **Status:** v1.0.3 — [available on Even Hub](https://hub.evenrealities.com/).
 
 ## Features
 
